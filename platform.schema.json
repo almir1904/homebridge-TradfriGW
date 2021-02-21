@@ -1,12 +1,12 @@
 {
-    "plugin_alias": "Ikea Trådfri Gateway",
+    "plugin_alias": "TradfriGW",
     "schema": {
         "type": "object",
         "properties": {
             "platform": {
                 "title": "Platform",
                 "type": "string",
-                "const": "Ikea Trådfri Gateway",
+                "const": "TradfriGW",
                 "readOnly": true
             },
             "name": {

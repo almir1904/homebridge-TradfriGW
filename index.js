@@ -12,6 +12,7 @@ module.exports = function(homebridge) {
     require('dotenv').config({path: Path.join(process.env.HOME, '.homebridge/.env')});
 
     const TradfriPlatform = require('./src/platform.js')
+    const PLATFORM_NAME = 'TradfriGW';
 
-    homebridge.registerPlatform('homebridge-tradfrigw', 'TradfriGW',TradfriPlatform);
+    homebridge.registerPlatform('homebridge-TradfriGW', 'TradfriGW',TradfriPlatform);
 };

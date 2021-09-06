@@ -6,5 +6,5 @@
 
 ## Installation
 ```shell
- npm install -g --unsafe-perm https://github.com/almir1904/homebridge-ikea-tradfri-gateway.git
+ npm install -g --unsafe-perm https://github.com/almir1904/homebridge-TradfriGW.git
 ```

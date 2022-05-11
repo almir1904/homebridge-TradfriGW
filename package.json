@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"color-convert": "^2.0.1",
-		"dotenv": "^8.2.0",
+		"dotenv": "^16.0.1",
 		"node-tradfri-client": "^3.0.1",
 		"yow": "^1.0.108"
 	},
